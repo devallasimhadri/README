@@ -1,64 +1,79 @@
-## Hi there 👋
-
-<!--
-*DevallaSimhadri/DevallaSimhadri* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Devalla Simhadri</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://enterprisersproject.com/sites/default/files/styles/large/public/cio_work_from_home_after_covid.png?itok=iWR7OX8f">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devallasimhadri&label=Profile%20views&color=0e75b6&style=flat" alt="devallasimhadri" /> </p>
-
-- 🌱 I’m currently learning **Python, Django, REST API, Flask, SQL, HTML, CSS, JavaScript, Bootstrap**
-
-- 💬 Ask me about **Python, Django, REST API, SQL, HTML, CSS, JavaScript, Bootstrap**
-
-- 📫 How to reach me **devallasimhadri147@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into working web apps with clean design and strong logic** 😄
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devalla-simhadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devalla-simhadri" height="30" width="40" /></a>
-<a href="mailto:devallasimhadri147@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40" /></a>
+<h3 align="center">💻 Fresher | Python Full Stack Developer | Django & REST API</h3>
+<p align="center">
+  🚀 Passionate about building scalable web applications | 🌱 Always learning new technologies
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+---
+
+## 👨‍💻 About Me
+- 🎓 **B.Tech in Computer Science & Engineering** (2020–2024) — CGPA: 7.37  
+- 🌱 Currently learning **Advanced Django, REST API Security & Deployment**
+- 💬 Ask me about **Python, Django, REST API, Flask, SQL, HTML, CSS, JavaScript, Bootstrap**
+- 📫 **Email:** [devallasimhadri147@gmail.com](mailto:devallasimhadri147@gmail.com)
+- ⚡ **Fun fact:** _I love turning ideas into working web apps with clean design and strong logic_ 😄
+
+---
+
+## 📄 Resume
+📌 [**View My Resume**](https://github.com/devallasimhadri/devallasimhadri/blob/main/Devalla_Simhadri_Resume.pdf)  
+*(Upload `Devalla_Simhadri_Resume.pdf` to your profile repository root so this works)*
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devalla-simhadri-513020268)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devallasimhadri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devallasimhadri147@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-<h3 align="left">Projects:</h3>
+---
 
-- **Online Bookstore App** – Python, Django, HTML, CSS, Bootstrap, MySQL, SQLite  
-  A web-based bookstore to manage books, users, orders, and admin operations. Includes user registration, login, book search, shopping cart, and checkout.
+## 📌 Featured Projects
+### 🛒 Online Bookstore App – Django Full Stack
+- **Tech:** Python, Django, HTML, CSS, Bootstrap, MySQL, SQLite  
+- **Features:** User authentication, book search, shopping cart, checkout, admin dashboard  
+🔗 [GitHub Repo](#) | [Live Demo](#)
 
-- **Weather API App** – Django, HTML, CSS, Bootstrap, REST API  
-  A real-time weather app using OpenWeatherMap API, displaying weather data dynamically with responsive UI.
+### 🌦 Weather API App – Real-Time Weather Dashboard
+- **Tech:** Django, REST API, HTML, CSS, Bootstrap  
+- **Features:** Fetches live weather data via OpenWeatherMap API, responsive UI, error handling  
+🔗 [GitHub Repo](#) | [Live Demo](#)
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devallasimhadri&show_icons=true&locale=en&layout=compact" alt="devallasimhadri" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devallasimhadri&show_icons=true&locale=en" alt="devallasimhadri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devallasimhadri&" alt="devallasimhadri" /></p>
+---
+
+## 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=devallasimhadri&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devallasimhadri&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallasimhadri&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Selected in **JNTU Ideathon** for an innovative tech solution  
+- 💻 Participated in a coding challenge at **Geethanjali Institute of Science and Technology**  
+- 📜 Completed **Full Stack Development** internships at PySpiders & IIDT  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=devallasimhadri&theme=darkhub&margin-w=15&margin-h=15)
