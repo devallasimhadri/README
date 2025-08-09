@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devalla Simhadri</h1>
-<h3 align="center">💻 Fresher | Python Full Stack Developer | Django & REST API</h3>
+<h3 align="center">💻 Fresher | Python Full Stack Developer | Django, Flask & REST API</h3>
 <p align="center">
   🚀 Passionate about building scalable web applications | 🌱 Always learning new technologies
 </p>
@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (2020–2024) — CGPA: 7.37  
-- 🌱 Currently learning **Advanced Django, REST API Security & Deployment**
-- 💬 Ask me about **Python, Django, REST API, Flask, SQL, HTML, CSS, JavaScript, Bootstrap**
+- 🌱 Currently learning **Advanced Django, Flask, REST API Security & Deployment**
+- 💬 Ask me about **Python, Django, Flask, REST API, SQL, HTML, CSS, JavaScript, Bootstrap**
 - 📫 **Email:** [devallasimhadri147@gmail.com](mailto:devallasimhadri147@gmail.com)
 - ⚡ **Fun fact:** _I love turning ideas into working web apps with clean design and strong logic_ 😄
 
