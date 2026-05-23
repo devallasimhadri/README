@@ -1,37 +1,162 @@
 <h1 align="center">Hi 👋, I'm Devalla Simhadri</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://enterprisersproject.com/sites/default/files/styles/large/public/cio_work_from_home_after_covid.png?itok=iWR7OX8f">
 
-- 🌱 I’m currently learning **Python, Django, Flask, REST API, SQL, HTML, CSS, JavaScript, Bootstrap**
-- 💬 Ask me about **Python, Django, REST API, SQL, JavaScript, React, Node.js**
-- 📫 How to reach me: **devallasimhadri147@gmail.com**
-- ⚡ Fun fact: *I turn coffee into clean code ☕💻*
+<h3 align="center">
+Python Full Stack Developer | Django Developer | Problem Solver
+</h3>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devalla-simhadri-513020268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devalla Simhadri" height="30" width="40" /></a>
-<a href="https://github.com/DevallaSimhadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<p align="center">
+Passionate about building real-world web applications using Python, Django, SQL, and modern web technologies.
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## 🚀 About Me
+
+🎓 B.Tech Graduate in Computer Science & Engineering  
+💻 Python Full Stack Developer  
+🌱 Currently improving Backend Development & REST APIs  
+⚡ Passionate about building real-world applications with clean code and strong logic  
+📌 Interested in Django, REST APIs, Full Stack Development, and Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevallaSimhadri&show_icons=true&locale=en&layout=compact" alt="DevallaSimhadri" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevallaSimhadri&show_icons=true&locale=en" alt="DevallaSimhadri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevallaSimhadri&" alt="DevallaSimhadri" /></p>
+## 📌 Featured Projects
+
+### 🛒 Online Bookstore App
+A full-stack bookstore application built using Django.
+
+### Features:
+✔ User Authentication  
+✔ Book Management  
+✔ Shopping Cart System  
+✔ Checkout Functionality  
+✔ Admin Dashboard  
+✔ REST APIs using DRF  
+
+**Tech Stack:**  
+`Python` `Django` `DRF` `HTML` `CSS` `Bootstrap` `SQLite/MySQL`
+
+---
+
+### 🌦 Weather API App
+
+A real-time weather application using external APIs.
+
+### Features:
+✔ City-based weather search  
+✔ API Integration  
+✔ Dynamic weather information  
+✔ JSON Parsing  
+✔ Error Handling  
+
+**Tech Stack:**  
+`Python` `Django` `REST API` `HTML` `CSS` `Bootstrap`
+
+---
+
+### 📄 Resume Scanner
+
+A Python-based project for parsing resumes and extracting skills.
+
+### Features:
+✔ Resume Parsing  
+✔ Skill Extraction  
+✔ Automation Concepts  
+
+**Tech Stack:**  
+`Python`
+
+---
+
+## 📚 Internship Experience
+
+### Python Full Stack Training Intern
+**PySpiders, Bangalore**
+
+- Trained in Python, Django, REST APIs, and MySQL
+- Built real-world full-stack projects
+- Worked with Django MTV Architecture
+- Developed CRUD applications
+- Implemented Authentication & Permissions
+- Built REST APIs using Django REST Framework
+
+---
+
+## 🏆 Certifications
+
+✅ Python Full Stack Development Internship – PySpiders  
+✅ Full Stack Development Internship – IIDT
+
+---
+
+## 🏅 Achievements
+
+🏆 Selected in JNTU Ideathon for presenting an innovative solution  
+🏆 Participated in coding challenges at Audisankara College
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: devallasimhadri147@gmail.com  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/devalla-simhadri-513020268/
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
